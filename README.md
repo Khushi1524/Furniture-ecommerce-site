@@ -14,6 +14,6 @@ Features :
 
 Tech Stack :
 
-HTML
-SCSS
-JavaScript
+1. HTML
+2. SCSS
+3. JavaScript
