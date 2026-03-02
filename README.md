@@ -17,3 +17,6 @@ Tech Stack :
 1. HTML
 2. SCSS
 3. JavaScript
+
+<img alt="image" src="https://github.com/user-attachments/assets/8661a24b-7905-41ae-a8ce-e59d8fc64b51" />
+
